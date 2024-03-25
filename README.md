@@ -1,6 +1,6 @@
 ### Olá, meu nome é Eric 👋
 
-- 🔭 Quero começar a trabalhar com Front-End 
+- 🔭 Quero começar a trabalhar com Desenvolvimento de Sistemas 
 - 🌱 Estudo Sistemas de Informação 
 - 📫 Contate-me no email : ericmansurjob@gmail.com
 
