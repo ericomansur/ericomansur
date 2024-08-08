@@ -1,8 +1,9 @@
 ### Olá, meu nome é Eric 👋
 
-- 🔭 Quero começar a trabalhar com Desenvolvimento de Sistemas 
-- 🌱 Estudo Sistemas de Informação 
+- 🔭 Graduando Sistemas de InformaçãoQuero começar a trabalhar com Desenvolvimento de Sistemas 
+- 🌱 Quero começar a trabalhar com Desenvolvimento de Sistemas 
 - 📫 Contate-me no email : ericmansurjob@gmail.com
+- Possuo Domínio em: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericomansur&show_icons=true&theme=radical)
 
