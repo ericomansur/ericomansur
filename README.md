@@ -3,7 +3,7 @@
 <p><a href="https://portifolio-eric.netlify.app/" target="_blank" rel="noopener noreferrer">Meu Portifólio</a>.</p>
 
 Meu Email : ericmansurjob@gmail.com
-Possuo Domínio em: 
+- Possuo Domínio em: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericomansur&show_icons=true&theme=radical)
 
