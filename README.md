@@ -1,6 +1,6 @@
 ### Olá, meu nome é Eric 👋
 
-- 🔭 Graduando Sistemas de Informação
+<link https://portifolio-eric.netlify.app/>Meu portifólio</link>
 - 🌱 Quero começar a trabalhar com Desenvolvimento de Sistemas 
 - 📫 Contate-me no email : ericmansurjob@gmail.com
 - Possuo Domínio em: 
