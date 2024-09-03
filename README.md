@@ -1,6 +1,6 @@
 ### Olá, meu nome é Eric 👋
 
-<link https://portifolio-eric.netlify.app/>Meu portifólio</link>
+<p>Confira o <a href="https://portifolio-eric.netlify.app/" target="_blank" rel="noopener noreferrer">meu Portifólio</a>.</p>
 - 🌱 Quero começar a trabalhar com Desenvolvimento de Sistemas 
 - 📫 Contate-me no email : ericmansurjob@gmail.com
 - Possuo Domínio em: 
