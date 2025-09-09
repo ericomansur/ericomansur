@@ -1,6 +1,6 @@
 ### Eric Mansur, 20 anos
 
-<p><a href="https://ericmansur.netlify.app/" target="_blank" rel="noopener noreferrer">Meu Portifólio</a></p>
+<p><a href="https://ericmansur.site" target="_blank" rel="noopener noreferrer">Meu Portifólio</a></p>
  
 ##
 
