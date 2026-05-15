@@ -1,4 +1,4 @@
-### Eric Mansur, 21 anos
+### Eric Mansur, 22 anos
 
 Desenvolvedor backend com foco em Python, Django e APIs escaláveis.  
 Formado em Sistemas de Informação, iniciei minha carreira no front-end e hoje construo soluções robustas no back-end.
